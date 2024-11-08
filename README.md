@@ -7,4 +7,4 @@ https://jdunkerley.co.uk/2018/02/06/creating-a-simple-azure-function-in-javascri
 - visual studio code
 
 command to trigger
-func host start
+- func host start
